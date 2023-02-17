@@ -5,11 +5,13 @@ This repository contains a collection of utility scripts that I have developed a
 ## Getting Started
 To get started with these utility scripts, simply clone the repository to your local machine using the following command:
 
-bash
-```Copy code
-git clone https://github.com/your-username/utility-scripts.git
-Alternatively, you can download the repository as a ZIP file by clicking the "Code" button on the repository's GitHub page and selecting "Download ZIP".
+
 ```
+bash
+git clone https://github.com/your-username/utility-scripts.git
+```
+Alternatively, you can download the repository as a ZIP file by clicking the "Code" button on the repository's GitHub page and selecting "Download ZIP".
+
 
 ## Prerequisites
 These utility scripts are written in various programming languages and may have specific requirements. Please read the documentation for each script to determine any prerequisites before running it.
